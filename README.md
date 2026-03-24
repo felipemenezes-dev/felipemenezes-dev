@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0085FF&"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=FF0000&"/>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/felipemenezes-dev/felipemenezes-dev/main/homemaranha.png" height="250" />
@@ -7,7 +7,7 @@
 <br>
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Iosevka&color=0086F7&width=900&size=30&center=true&lines=Olá!+meu+nome+é+Felipe+Espínola;Seja+bem+vindo!!+C:"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Iosevka&color=FF0000&width=900&size=30&center=true&lines=Olá!+meu+nome+é+Felipe+Espínola;Seja+bem+vindo!!+C:"/>
 </div>
 
 <h5 align="center">
@@ -20,15 +20,15 @@
 <table>
 <tr>
 <td>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=felipemenezes-dev&theme=github-dark-blue"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=felipemenezes-dev&theme=tokyonight"/>
 </td>
 <td>
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=felipemenezes-dev&theme=city_lights"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=felipemenezes-dev&theme=monokai"/>
 </td>
 </tr>
 </table>
 <br>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felipemenezes-dev&theme=city_lights"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felipemenezes-dev&theme=monokai"/>
 </div>
 
 <br>

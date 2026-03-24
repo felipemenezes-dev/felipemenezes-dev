@@ -7,7 +7,7 @@
 <br>
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Iosevka&color=FF0000&width=900&size=30&center=true&lines=Olá!+meu+nome+é+Felipe+Menezes!;Seja+bem+vindo!!+C:"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Iosevka&color=FF0000&width=900&size=30&center=true&lines=Olá!+Meu+nome+é+Felipe+Menezes!;Seja+bem+vindo!!+C:"/>
 </div>
 
 <h5 align="center">

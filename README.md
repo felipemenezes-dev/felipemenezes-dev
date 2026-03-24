@@ -11,11 +11,9 @@
 </div>
 
 <h5 align="center">
-  <div align="center">
-  <img src="https://img.shields.io/badge/Backend_Focused-D32F2F?style=for-the-badge&logo=rocket&logoColor=white" />
-  <img src="https://img.shields.io/badge/Clean_Architecture-white?style=for-the-badge&logo=architecture&logoColor=black" />
-  <img src="https://img.shields.io/badge/Java_Expert-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-</div>
+  <h3 align="center">
+  🕸️ Backend Developer | C Enthusiast | Clean Architecture Specialist 🕸️
+</h3>
 </h5>
 
 <br>

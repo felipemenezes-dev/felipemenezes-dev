@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0085FF&"/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/felipemenezes-dev/felipemenezes-dev/main/homem-aranha.png" height="250" />
+  <img src="https://raw.githubusercontent.com/felipemenezes-dev/felipemenezes-dev/main/homemaranha.png" height="250" />
 </div>
 
 <br>
